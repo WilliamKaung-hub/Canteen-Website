@@ -1,16 +1,12 @@
-import { Button, Typography, Container } from "@mui/material";
+import React from 'react'
 
-function App() {
+const App = () => {
   return (
-    <Container>
-      <Typography variant="h4" gutterBottom>
-        Welcome to React + MUI!
-      </Typography>
-      <Button variant="contained" color="primary">
-        Click Me
-      </Button>
-    </Container>
-  );
+    <div>
+     <h1>Click2Canteen Website</h1>
+     
+    </div>
+  )
 }
 
-export default App;
+export default App
