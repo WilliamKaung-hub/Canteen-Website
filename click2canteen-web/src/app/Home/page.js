@@ -1,4 +1,5 @@
 import React from 'react'
+import LinkButton from '@/components/LinkButton'
 
 export default function page() {
   return (
